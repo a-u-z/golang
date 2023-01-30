@@ -1,0 +1,29 @@
+{
+    "monster": {
+        "dragon": [
+            "fly",
+            "fire"
+        ],
+        "dog": [
+            "ground"
+        ],
+        "ghost": [
+            "magic",
+            "dark"
+        ]
+    },
+    "people": {
+        "student": [
+            "read",
+            "play"
+        ],
+        "teacher": [
+            "teach",
+            "shout at student"
+        ],
+        "parents": [
+            "take care",
+            "feed"
+        ]
+    }
+}
